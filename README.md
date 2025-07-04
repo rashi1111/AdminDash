@@ -13,7 +13,7 @@ A full-stack user management app with CRUD operations, form validation, PAN mask
 
 ## Technologies Used
 
-- **Frontend**: React, Axios, HTML/CSS (with optional Tailwind or Bootstrap)
+- **Frontend**: React, Axios, HTML/CSS (with Tailwind )
 - **Backend**: FastAPI (Python), Pydantic, openpyxl
 - **File Handling**: Excel file processing with validation
 - **Extras**: CORS middleware, React hooks
